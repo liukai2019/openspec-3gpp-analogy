@@ -9,6 +9,9 @@
 # rfc-agent-spec
 # openspec x rfc
 
+From TS 34.229 to AI Coding: writing specs like conformance tests.
+
+
 This repository explores a simple but powerful idea:
 
 **AI coding specs can be written like telecom conformance test specifications.**
