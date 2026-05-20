@@ -80,8 +80,8 @@ We hypothesize that many successful AI coding spec patterns can be reinterpreted
 
 ---
 
-## 3GPP references by modem domain
-## 按 modem 域划分的 3GPP 对标文档
+## 3GPP references
+## 3GPP 对标文档
 
 ### IMS
 - **TS 34.229-1** — Protocol conformance specification
@@ -205,11 +205,9 @@ It should define:
 ## 非目标
 
 - This repository does **not** claim that OpenSpec was directly copied from 3GPP.
-- This repository does **not** claim that every modem layer has a one-to-one standalone 3GPP conformance spec.
 - This repository focuses on structural analogy and engineering usefulness.
 
 - 本仓库**不主张** OpenSpec 直接来源于 3GPP。
-- 本仓库**不主张** modem 每一层都能一一对应到一个独立 3GPP 测试标准族。
 - 本仓库关注的是结构类比与工程实用性。
 
 ---
