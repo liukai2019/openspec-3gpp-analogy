@@ -1,7 +1,13 @@
+
 # openspec-3gpp-analogy
 
 # OpenSpec × 3GPP Conformance Specs
 # OpenSpec × 3GPP 一致性测试规范映射
+# 3gpp spec-to-openspec style
+# protocol-agent-spec
+# telcom-agent-spec
+# rfc-agent-spec
+# openspec x rfc
 
 This repository explores a simple but powerful idea:
 
