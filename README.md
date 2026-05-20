@@ -1,0 +1,1 @@
+# openspec-3gpp-analogy
