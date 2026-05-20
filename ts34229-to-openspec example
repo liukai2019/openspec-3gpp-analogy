@@ -1,0 +1,8 @@
+ts34229-5 9 sms
+    9.1 mobile originaing sms/5gs
+      test purpose，(with, ensure that, when, then)跟openspec的格式inout output非常相似，还有conformance requirements。
+
+9.1.3.2的test procedure sequences则更加添加了约束使得agent不乱跑。
+
+
+可以开发agent应用skill spec+人工专家审核等流程来形成完整的specs,用于编码、测试、验收、流程指导监控等。
